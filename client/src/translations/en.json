@@ -1,0 +1,32 @@
+{
+    "core": {
+        "new": "New",
+        "add": "Add",
+        "cancel": "Cancel",
+        "accept": "Accept",
+        "access": "Access",
+        "create": "Create",
+        "ok": "Ok",
+        "noresults": "No results",
+        "select": "Select",
+        "notfound": "Not found",
+        "nocredentials": "Who are you?",
+        "optional": "Optional",
+        "save": "Save",
+        "delete": "Delete",
+        "close": "Close",
+        "exit": "Exit",
+        "home": "Home",
+        "email": "Email"
+    },
+    "server": {
+        "error400": "I can't process your request. Please, check it and try again.",
+        "error401": "Who are you? You need to be logged in to perform this action.",
+        "error403": "You don't have rights to perform this action.",
+        "error404": "I can't find what you are looking for.",
+        "error408": "My apologizes, it took me too much to proccess your request.",
+        "error409": "Data Conflict! I can't process your request.",
+        "error418": "I don't trully know what are you trying...",
+        "error500": "My apologizes, Something went wrong."
+    }
+}

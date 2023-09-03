@@ -1,0 +1,41 @@
+{
+    "core": {
+        "new": "Nuevo",
+        "add": "Añadir",
+        "cancel": "Cancelar",
+        "accept": "Aceptar",
+        "access": "Acceder",
+        "create": "Crear",
+        "ok": "Ok",
+        "noresults": "No hay resultados",
+        "select": "Seleccionar",
+        "notfound": "No encontrado",
+        "nocredentials": "Quién eres?",
+        "optional": "Opcional",
+        "save": "Guardar",
+        "delete": "Borrar",
+        "close": "Cerrar",
+        "exit": "Salir",
+        "home": "Inicio",
+        "email": "Email"
+    },
+    "server": {
+        "error400": "No puedo procesar la petición. Revisa los valores y prueba de nuevo.",
+        "error401": "Quién eres? No puedes realizar esta acción sin logearte.",
+        "error403": "No tienes permisos para realizar esta acción.",
+        "error404": "No puedo encontrar lo que estás buscando.",
+        "error408": "Lo siento, me ha llevado demasiado procesar tu petición.",
+        "error409": "Conflicto de datos. No puedo procesar tu petición.",
+        "error418": "Realmente no sé que estás intentando...",
+        "error500": "Discúlpame, algo ha fallado de forma inesperada."
+    },
+    "project": {
+        "plural": "Proyectos",
+        "singular": "Proyecto",
+        "new": "Nuevo proyecto",
+        "about": "Sobre el proyecto",
+        "field-name": "Nombre del proyecto",
+        "leave": "Abandonar",
+        "leaveconfirmation": "Esta acción no puede deshacerse. Seguro que quieres dejar el proyecto?"
+    }
+}
